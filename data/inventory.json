@@ -1,0 +1,88 @@
+{
+  "source": "https://locacoesfuji.estoquenow.site/",
+  "last_updated": "2024-05-05T00:00:00-03:00",
+  "items": [
+    {
+      "id": "cadeira-tiffany-branca",
+      "name": "Cadeira Tiffany Branca",
+      "category": "Cadeiras",
+      "quantity": 120,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Cadeira+Tiffany+Branca",
+      "description": "Estrutura em resina com almofada branca, ideal para casamentos e eventos sociais.",
+      "aliases": [
+        "cadeira tiffany",
+        "cadeira tiffany branca",
+        "cadeiras tiffany",
+        "cadeiras tiffany brancas",
+        "tiffany branca"
+      ]
+    },
+    {
+      "id": "cadeira-dior-transparente",
+      "name": "Cadeira Dior Transparente",
+      "category": "Cadeiras",
+      "quantity": 60,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Cadeira+Dior+Transparente",
+      "description": "Cadeira policarbonato estilo Dior transparente, muito utilizada em eventos sofisticados.",
+      "aliases": [
+        "cadeira cristal",
+        "cadeira dior",
+        "cadeiras dior",
+        "cadeiras dior transparentes",
+        "dior transparente"
+      ]
+    },
+    {
+      "id": "mesa-bistro-alta-branca",
+      "name": "Mesa Bistrô Alta Branca",
+      "category": "Mesas",
+      "quantity": 25,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Mesa+Bistro+Branca",
+      "description": "Mesa bistrô alta com tampo branco, perfeita para áreas de coquetel e lounges.",
+      "aliases": [
+        "mesa bistro",
+        "mesa alta branca",
+        "mesa coquetel"
+      ]
+    },
+    {
+      "id": "mesa-madeira-rustica-220",
+      "name": "Mesa de Madeira Rústica 2,20m",
+      "category": "Mesas",
+      "quantity": 8,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Mesa+Rustica+2.20m",
+      "description": "Mesa rústica de madeira de demolição com 2,20m de comprimento.",
+      "aliases": [
+        "mesa rustica",
+        "mesa madeira",
+        "mesa madeira 2,20"
+      ]
+    },
+    {
+      "id": "banco-madeira-duplo",
+      "name": "Banco de Madeira 2 Lugares",
+      "category": "Assentos",
+      "quantity": 15,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Banco+Madeira",
+      "description": "Banco de madeira com acabamento rústico, comporta confortavelmente duas pessoas.",
+      "aliases": [
+        "banco madeira",
+        "banco 2 lugares",
+        "banco rustico"
+      ]
+    },
+    {
+      "id": "ombrelone-branco-3m",
+      "name": "Ombrelone Branco 3m",
+      "category": "Coberturas",
+      "quantity": 12,
+      "image_url": "https://via.placeholder.com/600x400.png?text=Ombrelone+Branco",
+      "description": "Ombrelone redondo branco de 3 metros com base de concreto.",
+      "aliases": [
+        "ombrelone",
+        "ombrelone branco",
+        "ombrelone 3m"
+      ]
+    }
+  ]
+}
